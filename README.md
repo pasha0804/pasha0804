@@ -15,7 +15,6 @@
 <p style="padding:10px;">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.php.net/manual/de/intro-whatis.php" target="_blank"> <img src="https://pbs.twimg.com/profile_images/815698345716912128/hwUcGZ41_400x400.jpg width=60 height=60 /> </a>
 </p>
 
 ### 🔹Databases:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
@@ -35,9 +34,9 @@
 <p align="center">
   <a href="https://github.com/alperen-dev">
     <img src="https://github-readme-stats.vercel.app/api?username=alperen-dev" />
-    <br>
+    <hr>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=alperen-dev&theme=github-dark-blue" />
-    <br>
+    <hr>
     <img src="https://activity-graph.herokuapp.com/graph?username=alperen-dev&theme=react-dark" />
   </a>
 </p>
