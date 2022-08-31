@@ -34,8 +34,8 @@
 
 <p align="center">
   <a href="https://github.com/alperen-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=alperen-dev&show_icons=true&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alperen-dev&theme=github-dark-blue&hide_border=true" />
+    <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alperen-dev)](https://github.com/anuraghazra/github-readme-stats)" />
+    <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alperen-dev&theme=github-dark-blue)](https://git.io/streak-stats)" />
     <img src="https://activity-graph.herokuapp.com/graph?username=alperen-dev&theme=react-dark" />
   </a>
 </p>
