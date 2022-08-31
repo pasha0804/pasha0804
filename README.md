@@ -35,7 +35,9 @@
 <p align="center">
   <a href="https://github.com/alperen-dev">
     <img src="https://github-readme-stats.vercel.app/api?username=alperen-dev" />
+    <br>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=alperen-dev&theme=github-dark-blue" />
+    <br>
     <img src="https://activity-graph.herokuapp.com/graph?username=alperen-dev&theme=react-dark" />
   </a>
 </p>
