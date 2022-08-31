@@ -15,7 +15,7 @@
 <p style="padding:10px;">
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.php.net/manual/de/intro-whatis.php" target="_blank"> <img src="https://pbs.twimg.com/profile_images/815698345716912128/hwUcGZ41_400x400.jpg"/> </a>
+    <a href="https://www.php.net/manual/de/intro-whatis.php" target="_blank"> <img src="https://pbs.twimg.com/profile_images/815698345716912128/hwUcGZ41_400x400.jpg width="60" height="60"/></a>
 </p>
 
 ### 🔹Databases:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
