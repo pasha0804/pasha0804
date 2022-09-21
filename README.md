@@ -24,7 +24,7 @@
     <a style="padding:15px;" href="https://www.microsoft.com/de-ch/sql-server/sql-server-2019" target="_blank"> <img src="https://img.icons8.com/color/480/microsoft-sql-server.png" height=60 width=105 /> </a>
 </p>
 
-<p  align="center">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
@@ -42,7 +42,7 @@
 </p>
 
 
-<p  align="center">
+<p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
