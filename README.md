@@ -12,6 +12,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,linux,git&perline=7">
 </div>
 <hr>
+
 > There is nothing outside of yourself that can ever enable you to get better, stronger, richer, quicker, or smarter. Everything is within. Everything exists. Seek nothing outside of yourself.
 
 ~ Miyamoto Musashi
