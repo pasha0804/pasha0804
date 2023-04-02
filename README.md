@@ -1,4 +1,4 @@
-<div align=center style="padding-bottom: 1%">
+<div align=center style="padding-bottom: 5%">
     <h2>Your conventional OSS enthusiast</h2>
     <img src="https://komarev.com/ghpvc/?username=alperen-dev&color=000000&label=Visitor+count">
 </div>
