@@ -2,7 +2,6 @@
     <h2>Your conventional OSS enthusiast</h2>
     <img src="https://komarev.com/ghpvc/?username=alperen-dev&color=000000&label=Visitor+count">
 </div>
-<hr>
 <div align=center>
     <img src="https://streak-stats.demolab.com?user=alperen-dev&theme=dark&mode=weekly">
 </div>
