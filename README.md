@@ -3,6 +3,7 @@
     <img src="https://komarev.com/ghpvc/?username=alperen-dev&color=000000&label=Visitor+count">
     <hr>
     <img src="https://github-readme-stats.vercel.app/api?username=alperen-dev&theme=dark">
+    [![GitHub Streak](https://streak-stats.demolab.com?user=alperen-dev&theme=dark&mode=weekly)](https://git.io/streak-stats)
 </div>
 <hr>
 <h4>Skills</h4>
