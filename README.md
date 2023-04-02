@@ -1,5 +1,5 @@
 <div align=center>
-    <h3>Your conventional OSS enthusiast</h3>
+    <h2>Your conventional OSS enthusiast</h2>
     <img src="https://komarev.com/ghpvc/?username=alperen-dev&color=000000&label=Visitor+count">
 </div>
 <hr>
@@ -8,7 +8,7 @@
 </div>
 <hr>
 <div>
-    <h4>Skills</h4>
+    <h3>Skills</h3>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,linux,git&perline=7">
 </div>
 <hr>
