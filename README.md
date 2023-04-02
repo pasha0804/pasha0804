@@ -1,7 +1,8 @@
-<div align=center style="padding-bottom: 5%">
+<div align=center>
     <h2>Your conventional OSS enthusiast</h2>
     <img src="https://komarev.com/ghpvc/?username=alperen-dev&color=000000&label=Visitor+count">
 </div>
+<br>
 <div align=center>
     <img src="https://streak-stats.demolab.com?user=alperen-dev&theme=dark&mode=weekly">
 </div>
