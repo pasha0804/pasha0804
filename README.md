@@ -1,5 +1,5 @@
 <div align=center>
-    <h2>A run-of-the-mill OSS enthusiast</h2>
+    <h2>An ordinary OSS enthusiast</h2>
     <img src="https://komarev.com/ghpvc/?username=alperen-dev&color=000000&label=Visitor+count">
 </div>
 <br>
