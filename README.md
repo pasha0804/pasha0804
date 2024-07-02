@@ -1,10 +1,10 @@
 <div align=center>
     <h2>An ordinary OSS enthusiast</h2>
-    <img src="https://komarev.com/ghpvc/?username=alperen-dev&color=000000&label=Visitor+count">
+    <img src="https://komarev.com/ghpvc/?username=hnypot&color=000000&label=Visitor+count">
 </div>
 <br>
 <div align=center>
-    <img src="https://streak-stats.demolab.com?user=alperen-dev&theme=dark&mode=weekly">
+    <img src="https://streak-stats.demolab.com?user=hnypot&theme=dark&mode=weekly">
 </div>
 <hr>
 <div>
