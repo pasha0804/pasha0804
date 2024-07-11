@@ -7,12 +7,11 @@
     <img src="https://streak-stats.demolab.com?user=hnypot&theme=dark&mode=weekly">
 </div>
 <hr>
-<div>
+<div align=center>
     <h3>Skills</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,php,java,cpp,linux,git&perline=9">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,python,rust,bash,powershell&perline=9">
 </div>
 <hr>
-
-> There is nothing outside of yourself that can ever enable you to get better, stronger, richer, quicker, or smarter. Everything is within. Everything exists. Seek nothing outside of yourself.
-
-~ *Miyamoto Musashi*
+<div align=center>
+    <p><i>"Ad astra per aspera"</i> - Through hardship to the stars. 🌠</p>
+</div>
