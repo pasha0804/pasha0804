@@ -9,9 +9,9 @@
 <hr>
 <div align=center>
     <h3>Skills</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,php,java,python,rust&perline=9">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind,php,java,python,rust,markdown&perline=10">
 </div>
 <hr>
 <div align=center>
-    <p><i>"Ad astra per aspera"</i> - Through hardship to the stars. 🌠</p>
+    <p><i>Ad astra per aspera</i> - Through hardship to the stars. 🌠</p>
 </div>
