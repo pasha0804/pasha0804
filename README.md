@@ -9,7 +9,7 @@
 <hr>
 <div align=center>
     <h3>Skills</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind,php,java,python,rust,markdown&perline=10">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind,java,rust&perline=7">
 </div>
 <hr>
 <div align=center>
